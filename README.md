@@ -14,7 +14,7 @@
 * Monthly price change per square meter (08.2023 - 04.2024)
 ![2](https://github.com/AnnnaMm/Statistical-analysis-of-the-impact-of-the-Safe-Credit-2-program-on-apartment-prices-in-Poland/blob/main/DV/2023.png)
 
-## Results:
+## Results
 ### Multiple regression analysis
 * Summary of Model 1 including square meters, number of rooms, and year of construction:
 ![3](https://github.com/AnnnaMm/Statistical-analysis-of-the-impact-of-the-Safe-Credit-2-program-on-apartment-prices-in-Poland/blob/main/MRA/1.png)
@@ -23,7 +23,7 @@
 * Summary of Model 3 including square meters, number of rooms, and year of construction:
 ![5](https://github.com/AnnnaMm/Statistical-analysis-of-the-impact-of-the-Safe-Credit-2-program-on-apartment-prices-in-Poland/blob/main/MRA/3.png)
 
-### Repeated measures analysis.
+### Repeated measures analysis
 * Mixed model analysis results for the base year 2010:
 ![5](https://github.com/AnnnaMm/Statistical-analysis-of-the-impact-of-the-Safe-Credit-2-program-on-apartment-prices-in-Poland/blob/main/RMA/all_do2010.png)
 * Rate of change in price per square meter compared to 2010:
