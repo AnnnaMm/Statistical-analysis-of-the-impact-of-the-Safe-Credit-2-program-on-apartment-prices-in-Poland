@@ -6,9 +6,9 @@ _Kaggle:_[Apartment Prices in Poland](https://www.kaggle.com/datasets/krzysztofj
 ## Results:
 ### Data visualization
 * Yearly price change per square meter (2010 - 2023)
-(DV/2010-2023.png)
+(https://github.com/AnnnaMm/Statistical-analysis-of-the-impact-of-the-Safe-Credit-2-program-on-apartment-prices-in-Poland/blob/main/DV/2010-2023.png)
 * Monthly price change per square meter (08.2023 - 04.2024)
-(DV/2023.png)
+(https://github.com/AnnnaMm/Statistical-analysis-of-the-impact-of-the-Safe-Credit-2-program-on-apartment-prices-in-Poland/blob/main/DV/2023.png)
 
 
 ## Multiple regression analysis
