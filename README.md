@@ -1,0 +1,1 @@
+# Statistical-analysis-of-the-impact-of-the-Safe-Credit-2-program-on-apartment-prices-in-Poland
