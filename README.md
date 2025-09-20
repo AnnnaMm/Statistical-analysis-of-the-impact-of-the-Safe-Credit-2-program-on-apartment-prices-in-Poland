@@ -23,10 +23,10 @@ _Kaggle:_ [Apartment Prices in Poland](https://www.kaggle.com/datasets/krzysztof
 * Mixed model analysis results for the base year 2010:
 ![5](https://github.com/AnnnaMm/Statistical-analysis-of-the-impact-of-the-Safe-Credit-2-program-on-apartment-prices-in-Poland/blob/main/RMA/all_do2010.png)
 * Rate of change in price per square meter compared to 2010:\
-| Year                                                                 | 2011          | 2015          | 2020          | 2023          |
-| -------------                                                        | ------------- | ------------- | ------------- | ------------- |
-| Percentage change price/square meter                                 | 1,55%         | -3,75%        | 28,09%        | 68,07%        |
-| Percentage change price/square meter(compared to the previous year)  | -             | 1,03%         | 10,11%        | 6,46%         |
+| Year                                                                | 2011   | 2015   | 2020   | 2023   |
+| ------------------------------------------------------------------- | ------ | ------ | ------ | ------ |
+| Percentage change price/square meter                                | 1,55%  | -3,75% | 28,09% | 68,07% |
+| Percentage change price/square meter (compared to the previous year)| -      | 1,03%  | 10,11% | 6,46%  |
 
 
 * Mixed model analysis results for the base year 2022:\
