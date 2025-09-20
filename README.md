@@ -3,15 +3,14 @@
 _GUS:_ [DBW](https://dbw.stat.gov.pl/baza-danych)\
 _Kaggle:_ [Apartment Prices in Poland](https://www.kaggle.com/datasets/krzysztofjamroz/apartment-prices-in-poland)
 
-## Results:
-### Data visualization
+## Data visualization
 * Yearly price change per square meter (2010 - 2023)
 ![1](https://github.com/AnnnaMm/Statistical-analysis-of-the-impact-of-the-Safe-Credit-2-program-on-apartment-prices-in-Poland/blob/main/DV/2010-2023.png)
 * Monthly price change per square meter (08.2023 - 04.2024)
 ![2](https://github.com/AnnnaMm/Statistical-analysis-of-the-impact-of-the-Safe-Credit-2-program-on-apartment-prices-in-Poland/blob/main/DV/2023.png)
 
-
-## Multiple regression analysis
+## Results:
+### Multiple regression analysis
 * Summary of Model 1 including square meters, number of rooms, and year of construction:
 ![3](https://github.com/AnnnaMm/Statistical-analysis-of-the-impact-of-the-Safe-Credit-2-program-on-apartment-prices-in-Poland/blob/main/MRA/1.png)
 * Summary of Model 2 including square meters, number of rooms, and year of construction:
@@ -19,10 +18,10 @@ _Kaggle:_ [Apartment Prices in Poland](https://www.kaggle.com/datasets/krzysztof
 * Summary of Model 3 including square meters, number of rooms, and year of construction:
 ![5](https://github.com/AnnnaMm/Statistical-analysis-of-the-impact-of-the-Safe-Credit-2-program-on-apartment-prices-in-Poland/blob/main/MRA/3.png)
 
-## Repeated measures analysis.
+### Repeated measures analysis.
 * Mixed model analysis results for the base year 2010:
 ![5](https://github.com/AnnnaMm/Statistical-analysis-of-the-impact-of-the-Safe-Credit-2-program-on-apartment-prices-in-Poland/blob/main/RMA/all_do2010.png)
-* Rate of change in price per square meter compared to 2010:\
+* Rate of change in price per square meter compared to 2010:
 
 | Year                                                                | 2011   | 2015   | 2020   | 2023   |
 | ------------------------------------------------------------------- | ------ | ------ | ------ | ------ |
@@ -33,22 +32,26 @@ _Kaggle:_ [Apartment Prices in Poland](https://www.kaggle.com/datasets/krzysztof
 * Mixed model analysis results for the base year 2022:\
 ![7](https://github.com/AnnnaMm/Statistical-analysis-of-the-impact-of-the-Safe-Credit-2-program-on-apartment-prices-in-Poland/blob/main/RMA/all_do2022.png)
 * Rate of change in price per square meter compared to 2022:
-| Year  | 2011 | 2015 | 2020 | 2023 |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| Percentage change price/square meter | -36,66%  | -39,03%  | -26,31%  | 6,46%  |
-| Percentage change price/square meter(compared to the previous year)  | -  | 0,0103 | 0,06865  | 0,1762 |
+
+| Year                                                                | 2011    | 2015    | 2020    | 2023    |
+| ------------------------------------------------------------------- | ------- | ------- | ------- | ------- |
+| Percentage change price/square meter                                | -36,66% | -39,03% | -26,31% | 6,46%   |
+| Percentage change price/square meter (compared to the previous year)| -       | 0,0103  | 0,06865 | 0,1762  |
+
 
 * Mixed model analysis results for the base year 2023(august):
 ![7](https://github.com/AnnnaMm/Statistical-analysis-of-the-impact-of-the-Safe-Credit-2-program-on-apartment-prices-in-Poland/blob/main/RMA/mnth.png)
-* Rate of change in price per square meter compared to 08.2023:\
-| Month  | 09.2023 | 12.2023 | 04.2024 |
-| ------------- | ------------- | ------------- | ------------- |
-| Percentage change price/square meter | 2,28%  | 10,70%  | 14,83%  | 
-| Percentage change  price/square meter(compared to the previous year)  | -  | 4,76% | 0,36%  | 
+* Rate of change in price per square meter compared to 08.2023:
+
+| Month                                                               | 09.2023 | 12.2023 | 04.2024 |
+| ------------------------------------------------------------------- | ------- | ------- | ------- |
+| Percentage change price/square meter                                | 2,28%   | 10,70%  | 14,83%  |
+| Percentage change price/square meter (compared to the previous year)| -       | 4,76%   | 0,36%   |
+
 
 
 ## Conclusions
-From the results of the analysis we can conclude that the programme ‘Safe Credit 2%’ programme had a significant impact 
+  From the results of the analysis we can conclude that the programme ‘Safe Credit 2%’ programme had a significant impact 
 on the price of housing in Poland - prices per square metre increased at a per square metre have increased at a relatively 
 fast pace, compared to the annual growth trends. Multiple regression analysis reveals the impact of specific 
 factors on property price formation and is useful for for research on data of this type, although it would be necessary 
