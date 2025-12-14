@@ -59,8 +59,8 @@
 | Percentage change price/square meter (compared to the previous year)| -       | 4,76%   | 0,36%   |
 
 
-
 ## Conclusions
+<div align="justify">
   From the results of the analysis we can conclude that the programme ‘Safe Credit 2%’ programme had a significant impact 
 on the price of housing in Poland - prices per square metre increased at a per square metre have increased at a relatively 
 fast pace, compared to the annual growth trends. Multiple regression analysis reveals the impact of specific 
@@ -73,8 +73,8 @@ credit programme is <ins>9.74 %</ins>, which leads to the conclusion, that the i
 has significantly influenced the increase in housing prices during its during its operation. 
 The increased availability of mortgage loans has contributed to an increase in demand for housing, 
 which has driven up prices in the most desirable locations.
-
-
+</div>
+<br>
 
 > [!IMPORTANT]
 > For full access to the code and additional information, contact the repository owner -> annamamch17@gmail.com .
