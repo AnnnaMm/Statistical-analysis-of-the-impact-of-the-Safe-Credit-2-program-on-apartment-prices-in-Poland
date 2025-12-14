@@ -1,4 +1,9 @@
-## This project aimed to show how the government's "Safe Credit 2%" programme has affected housing prices in Poland. The analysis used data on housing prices from 2010 to 2022 in the 5 largest cities of Poland, taken from the GUS website, as well as data for 2023 on housing prices from Kaggle. The research used multiple regression analysis and repeated measures analysis.
+<div align="justify">
+<h1> <b> Statistical analysis of the impact of the introduction of the "Safe Credit 2%" program on apartment prices in Poland </b> </h1>
+<h2> This project aimed to show how the government's "Safe Credit 2%" programme has affected housing prices in Poland. The analysis used data on housing prices from 2010 to 2022 in the 5 largest cities of Poland, taken from the GUS website, as well as data for 2023 on housing prices from Kaggle. The research used multiple regression analysis and repeated measures analysis. </h2>
+</div>
+
+
 > * Datasets sourses:
 >   - _GUS:_ [DBW](https://dbw.stat.gov.pl/baza-danych)
 >   - _Kaggle:_ [Apartment Prices in Poland](https://www.kaggle.com/datasets/krzysztofjamroz/apartment-prices-in-poland)
